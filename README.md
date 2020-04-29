@@ -1,6 +1,9 @@
 # shadermaskdemo
 
-A new Flutter application.
+A sample app that shows various blend modes that are provided which can be used to apply effects on an image using ShaderMask widget.
+
+![Screen Shot 2020-04-29 at 11 34 34 AM](https://user-images.githubusercontent.com/16548367/80565174-7330b000-8a0d-11ea-9623-cbf70c9640de.png)
+
 
 ## Getting Started
 
